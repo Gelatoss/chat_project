@@ -1,0 +1,14 @@
+﻿<Application x:Class="Chat.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Chat">
+    <Application.Resources>
+         <ResourceDictionary>
+             <ResourceDictionary.MergedDictionaries>
+                 <ResourceDictionary Source="./Theme/MessageBox.xaml"/>
+                 <ResourceDictionary Source="./Theme/NewScrollBar.xaml"/>
+                 <ResourceDictionary Source="./Theme/ModernButton.xaml"/>
+             </ResourceDictionary.MergedDictionaries>
+         </ResourceDictionary>
+    </Application.Resources>
+</Application>

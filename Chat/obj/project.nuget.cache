@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OrLhB7cuic/CPBPndu4i/wgQ1N0p7PF7jqgO5PwNzph0k4XpdeA2CwEDpsHWG93FG1PcavYOc8VLHNSalgeV/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smocg\\Documents\\Assignments\\First_year\\Realword Interaction\\Chat\\Chat\\Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smocg\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\smocg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\smocg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\smocg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
